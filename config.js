@@ -10,7 +10,7 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两种 Api Key
   ApiKeys: [
-    'ur894242-90d1eb90acc82624bcaed27a'
+    'ur1059100-0e998614ca1bde7b5b1f96db'
   ],
 
   // 是否显示监测站点的链接
@@ -30,10 +30,6 @@ window.Config = {
     {
       text: 'GitHub',
       url: 'https://github.com/geekyouth/'
-    },
-    {
-      text: '博客',
-      url: 'https://java666.cn'
     }
   ]
 };
